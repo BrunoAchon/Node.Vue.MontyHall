@@ -52,7 +52,7 @@ export default {
     position: absolute;
     height: 15px;
     top:40px;
-    width: 88px;
+    width: 89px;
 }
 
 </style>
